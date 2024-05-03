@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1710483272 source:c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\ejercicios\parcial 1\parcial1-programacion2-karla estefany hernandez pocasangre\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cuenta.h"
+	"Cliente.h"
+	"Fecha.h"
+	"Abono.h"
+
+1710483272 c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\ejercicios\parcial 1\parcial1-programacion2-karla estefany hernandez pocasangre\cuenta.h
+	"Abono.h"
+	"Cliente.h"
+
+1710483272 c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\ejercicios\parcial 1\parcial1-programacion2-karla estefany hernandez pocasangre\abono.h
+	"Fecha.h"
+
+1711065205 c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\ejercicios\parcial 1\parcial1-programacion2-karla estefany hernandez pocasangre\fecha.h
+
+1711002248 c:\users\karla\videos\universidad de sonsonate c1 2024\programacion 2\ejercicios\parcial 1\parcial1-programacion2-karla estefany hernandez pocasangre\cliente.h
+	<string.h>
+
